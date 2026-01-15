@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sonu kumar currently pursuing B.tech from RIMT UNIVERSITY.
-- 👀 I’m interested in Data Analysis.
+- 👀 I’m interested in Data Analyst.
 - 🌱 I’m currently learning Python,Numpy,SQL,Power Bi,Pandas,Matplotlib.
 - 💞️ I’m looking to collaborate on any project releated Data analysis. 
 - 📫 Mail at sonukumar32977@gmail.com
